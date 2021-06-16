@@ -1,0 +1,31 @@
+------------------------------------
+BACKEND
+------------------------------------
+
+(/) Se cierran coms tras enviar trama desde el cliente
+impresora. Probar a crear servidor. Probar si impresora
+cierra. // Habia que volver a declarar la com porque cerraba tras terminar el enviado
+
+- Confirmacion de envío de trama: el plc si lo manda
+probar con lectores
+
+- Probar con inmpresora mandar archivos por 9100
+
+- Redirigir busqueda de archivos a carpeta externa
+
+------------------------------------
+FRONTEND
+------------------------------------
+
+- Cambia codigo enviado cuando cambia
+
+- Crear toda la interfaz
+
+- Comprobacion de conexiones 
+
+- Control de maquina 
+
+------------------------------
+------------------------------
+
+- Crear Git!!!!
